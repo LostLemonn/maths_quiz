@@ -9,7 +9,7 @@ Whereas if you are incorrect, you will be met with the message: "Not quite!"
 ### Technical Documentation:
 This code primarily operates through 2 custom functions, "ask_question()" and "check_answer()".
 
-Additonally, I have introduced a self contained module through the "questions.py" file which adds a layer of modularity to the code and is what is being used to provide us with random integers in the range of 1-10. Again, this file also uses a custom function "number_gen()". This function is linked with the main.py file by importing it in (as seen in line 2 of main.py).
+Additionally, I have introduced a self contained module through the "questions.py" file which adds a layer of modularity to the code and is what is being used to provide us with random integers in the range of 1-10. Again, this file also uses a custom function "number_gen()". This function is linked with the main.py file by importing it in (as seen in line 2 of main.py).
 
 The random library has also been imported to provide us with randomised integers.
 
