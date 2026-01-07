@@ -1,4 +1,4 @@
-# maths_quiz
+# Fun Maths Quiz!
 ## This is a simple multiplication quiz in python
 ### User Information:
 This quiz is incredibly easy to use, simply run the code and you will be prompted with a multiplication question.
